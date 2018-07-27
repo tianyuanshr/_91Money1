@@ -7,5 +7,5 @@ public class test {
     private int uiud;
     private int ui1ud;
     private int ui11ud;
-
+    private int kui11ud;
 }
