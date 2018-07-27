@@ -5,4 +5,6 @@ public class test {
     private String name;
     private int uid;
     private int uiud;
+    private int ui1ud;
+
 }
